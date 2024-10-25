@@ -1,7 +1,6 @@
 # Anualidades-vencidas 
 En este repositorio haremos las funciones para los cálculos de anualidades vencidas. 
-
-
+https://raw.githubusercontent.com/Torres2222/Anualidades-vencidas/refs/heads/main/README.md
 
 A continuacion se dan ejemplos del uso de las formulas correspondientes:
 
